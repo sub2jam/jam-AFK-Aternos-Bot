@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "epsteinfuckriggers.aternos.me:48897",
+    "ip": "epsteinfuckriggers.aternos.me",
     "port": 48897,
     "version": "",
     "try-creative": false
